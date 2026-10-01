@@ -4,3 +4,6 @@ app/build/
 .idea/
 *.iml
 out/
+.metals/
+.bloop/
+app/bin/
