@@ -13,8 +13,13 @@ public class Gav {
     }
 
     // Decoupe une chaine "group:artifact:version" en ses trois parties.
+    // Leve InvalidGavException si le format n'est pas respecte : mauvais
+    // nombre de segments, ou un segment vide.
     public static Gav parse(String coordinate) {
         String[] parts = coordinate.split(":");
+        if (parts.length != 3 || parts[0].isEmpty() || parts[1].isEmpty() || parts[2].isEmpty()) {
+            throw new InvalidGavException(coordinate);
+        }
         return new Gav(parts[0], parts[1], parts[2]);
     }
 
