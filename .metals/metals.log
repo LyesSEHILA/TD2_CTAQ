@@ -151,3 +151,61 @@ AVERTISSEMENT: Unmatched cancel notification for request id 28
 2026.10.01 09:13:18 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
 2026.10.01 09:13:19 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
 2026.10.01 09:13:23 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:13:50 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:13:50 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:21:38 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:38 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:38 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:40 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:40 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:42 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:42 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:49 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:49 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:49 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:51 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:51 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:51 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:51 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:53 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:53 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:55 WARN  no build target for: /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java
+2026.10.01 09:21:56 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:21:56 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/main/java/org/acme/minibuild/Gav.java. Using fallback presentation compiler.
+2026.10.01 09:24:14 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:24:14 WARN  no build target for: /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java
+oct. 01, 2026 9:24:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 64
+2026.10.01 09:24:14 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+oct. 01, 2026 9:24:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 66
+2026.10.01 09:24:15 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+oct. 01, 2026 9:24:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 69
+2026.10.01 09:24:15 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:24:16 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:24:16 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+oct. 01, 2026 9:24:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 71
+2026.10.01 09:24:18 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:24:18 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+oct. 01, 2026 9:24:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 73
+2026.10.01 09:24:18 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+oct. 01, 2026 9:24:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 76
+2026.10.01 09:24:18 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+oct. 01, 2026 9:24:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 78
+2026.10.01 09:24:19 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:24:19 WARN  no build target for: /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java
+2026.10.01 09:24:19 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:24:19 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+oct. 01, 2026 9:24:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 81
+2026.10.01 09:24:21 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:24:21 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:24:22 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+2026.10.01 09:24:22 INFO  no build target found for /home/atlas/Bureau/M2/CTAQ/TD2_CTAQ/app/src/test/java/org/acme/minibuild/GavTest.java. Using fallback presentation compiler.
+oct. 01, 2026 9:24:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 89
