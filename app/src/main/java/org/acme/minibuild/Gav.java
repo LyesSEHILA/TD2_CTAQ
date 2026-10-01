@@ -12,6 +12,7 @@ public class Gav {
         this.version = version;
     }
 
+    // Decoupe une chaine "group:artifact:version" en ses trois parties.
     public static Gav parse(String coordinate) {
         String[] parts = coordinate.split(":");
         return new Gav(parts[0], parts[1], parts[2]);
