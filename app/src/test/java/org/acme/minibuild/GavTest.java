@@ -1,28 +1,24 @@
 package org.acme.minibuild;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.CsvSource;
 
 public class GavTest {
 
-    // Vérifie que Gav.parse extrait correctement le groupe
-    // à partir d'une chaîne "group:artifact:version".
-    @Test
-    void parseExtractsGroup() {
-        Gav gav = Gav.parse("org.acme:lib-a:1.0.0");
-        assertEquals("org.acme", gav.group());
+    // Regroupe les deux cas de triangulation (Q4-Q6) en un seul test
+    // parametre : chaque ligne fournit une coordonnee en entree
+    // et les trois valeurs attendues en sortie.
+    @ParameterizedTest
+    @CsvSource({
+        "org.acme:lib-a:1.0.0, org.acme, lib-a, 1.0.0",
+        "org.other:lib-c:3.0.0, org.other, lib-c, 3.0.0"
+    })
+    void parseExtractsGroupArtifactAndVersion(
+            String coordinate, String expectedGroup, String expectedArtifact, String expectedVersion) {
+        Gav gav = Gav.parse(coordinate);
+        assertEquals(expectedGroup, gav.group());
+        assertEquals(expectedArtifact, gav.artifact());
+        assertEquals(expectedVersion, gav.version());
     }
-
-
-    // Triangulation : un second cas, avec des valeurs différentes,
-    // pour forcer un vrai découpage de la chaîne plutôt qu'une
-    // valeur codée en dur. On vérifie cette fois les trois champs.
-    @Test
-    void parseExtractsGroupArtifactAndVersion() {
-        Gav gav = Gav.parse("org.other:lib-c:3.0.0");
-        assertEquals("org.other", gav.group());
-        assertEquals("lib-c", gav.artifact());
-        assertEquals("3.0.0", gav.version());
-    }
-    
 }
